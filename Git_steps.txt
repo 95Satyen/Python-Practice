@@ -10,6 +10,22 @@ git checkout master #switches to master
 git checkout git_branch_dell  #switches to existing branch
 git branch                    #lists down all the branches
 
+
+#adding local commits to remote#
+git status         #shows unstaged files 
+git add Git_steps  #adds the unstaged file 'Git_steps' to staged files
+git commit Gitsteps.txt #commits only the required file
+git status              #checks commits ahead
+git push -u origin master #pushes staged code from local master to remote   
+git branch  #checks the branches available
+git checkout git_dell_local #switches to local branch
+git pull origin master #pulls changes from master(remote) to git_dell_local
+
+
+git branch -d git_dell_local #deletes local branch
+git push -u origin lol_branch # pushes code from local lol_branch to the remote lol_branch
+
 master push
 branch puthon_dell push   
 lol push
+
