@@ -10,4 +10,4 @@ git checkout master #switches to master
 git checkout git_branch_dell  #switches to existing branch
 git branch                    #lists down all the branches
 
-   
+master push   
