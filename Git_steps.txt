@@ -13,3 +13,4 @@ git branch                    #lists down all the branches
 master push
 branch puthon_dell push   
 lol push
+lol conflictor
