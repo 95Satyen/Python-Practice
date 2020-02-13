@@ -1,0 +1,19 @@
+2020-02-12 19:35:22,654 - DEBUG - Start of program
+2020-02-12 19:35:22,654 - DEBUG - Start of factorial(%s)
+2020-02-12 19:35:22,654 - DEBUG - i is 0, total is 0
+2020-02-12 19:35:22,654 - DEBUG - i is 1, total is 0
+2020-02-12 19:35:22,654 - DEBUG - i is 2, total is 0
+2020-02-12 19:35:22,654 - DEBUG - i is 3, total is 0
+2020-02-12 19:35:22,654 - DEBUG - i is 4, total is 0
+2020-02-12 19:35:22,654 - DEBUG - i is 5, total is 0
+2020-02-12 19:35:22,654 - INFO - Return value is 0
+2020-02-12 19:35:22,654 - DEBUG - Start of factorial(%s)
+2020-02-12 19:35:22,654 - DEBUG - i is 0, total is 0
+2020-02-12 19:35:22,654 - DEBUG - i is 1, total is 0
+2020-02-12 19:35:22,654 - DEBUG - i is 2, total is 0
+2020-02-12 19:35:22,654 - DEBUG - i is 3, total is 0
+2020-02-12 19:35:22,655 - DEBUG - i is 4, total is 0
+2020-02-12 19:35:22,655 - DEBUG - i is 5, total is 0
+2020-02-12 19:35:22,655 - INFO - Return value is 0
+2020-02-12 19:35:22,655 - CRITICAL - Expected output 120
+2020-02-12 19:35:22,655 - DEBUG - End of program
